@@ -3,6 +3,11 @@
 
 #IDE
 .idea
+*.iml
+
+#build
+target
+
 # Log file
 *.log
 
